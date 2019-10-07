@@ -1,6 +1,9 @@
 # Asteroids
 Asteroids is a game I made in Unity, based on the classic arcade game Asteroids.
 
+[Play Online](https://people.rit.edu/bxh9261/webGL/Asteroids/)
+
+
 ## Game controls
 * SPACE – shoot
 * UP – accelerate
